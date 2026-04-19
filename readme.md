@@ -16,26 +16,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-1. [Project Overview](#-project-overview)
-2. [Features](#-features)
-3. [Project Structure](#-project-structure)
-4. [Quick Start](#-quick-start)
-5. [Running in JupyterLab](#-running-in-jupyterlab)
-6. [Architecture](#-architecture)
-7. [Algorithms Deep Dive](#-algorithms-deep-dive)
-8. [Interestingness Scoring](#-interestingness-scoring)
-9. [Recommendation Engine](#-recommendation-engine)
-10. [Customer Segmentation](#-customer-segmentation)
-11. [API Reference](#-api-reference)
-12. [UI Overview](#-ui-overview)
-13. [Dataset Format](#-dataset-format)
-14. [Configuration](#-configuration)
-15. [Troubleshooting](#-troubleshooting)
-16. [Tech Stack](#-tech-stack)
-
----
 
 ## 🎯 Project Overview
 
