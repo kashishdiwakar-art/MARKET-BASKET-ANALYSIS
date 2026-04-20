@@ -712,8 +712,9 @@ Running on the built-in demo dataset (`min_support=0.01`, `min_confidence=0.20`)
 
 https://github.com/user-attachments/assets/5bf7f40a-de5d-49c9-b917-e69ef057683b
 
+## App link
 
-
+https://market-basket-analysis-kd.streamlit.app/
 
 
 **Recommendation Example:**
